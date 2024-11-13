@@ -3,6 +3,7 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #F5F5F5;
+    color: #002200;
 }
 
 .header {
@@ -69,7 +70,7 @@ body {
   
   /* Title styling */
   .article-title {
-    font-size: clamp(1rem, 5vw, 11.5rem); 
+    font-size: clamp(1rem, 5vw, 3rem); 
     font-weight: bold;
     margin: 0;
   }
